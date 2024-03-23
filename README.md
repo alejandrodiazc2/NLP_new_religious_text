@@ -26,6 +26,7 @@ According to a global poll in 2012 by WIN-Gallup International, 59% of the world
  Sentiment Analysis
  LSA Topics
  Markov Chains
+ Word RNN model training
 
  I would like to think that as humans, independent of our cultural background, we all thrive towards the same goals. In my opinion, even though religions have made many societies thrive and were completely necessary to current society evolution, they have also created and widened gaps. On several occasions, these texts have been misinterpreted and used as an excuse for fulfilling private interests.  A main goal of my artistic research is to find the similarities and differences between these texts.
 
